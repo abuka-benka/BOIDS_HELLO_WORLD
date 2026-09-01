@@ -1,2 +1,3 @@
-# BOIDS_HELLO_WORLD
-my first project of UAV swarm,a simple simulation for learning swarm algorithms
+# 群体运动模型初尝试
+
+一个简单模拟蜂群运动的python程序
